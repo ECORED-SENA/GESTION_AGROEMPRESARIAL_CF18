@@ -1,18 +1,33 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5
+
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Titulo 
-      
+      h1  Capacitación
+
+    
+
+    #t_1_1.titulo-segundo.color-acento-contenido
+      .h4 1.1.	Programa de capacitación
+
+    
+
+    #t_1_2.titulo-segundo.color-acento-contenido
+      .h4 1.2.	Estructura de un plan de capacitación
+
+    
 </template>
 
 <script>
+import Muestras from '../components/Muestras' // borrar una vez el componente "Muestras" no se necesite
 export default {
   name: 'Tema1',
-  components: {},
+  components: {
+    Muestras, // borrar una vez el componente "Muestras" no se necesite
+  },
   data: () => ({
     // variables de vue
   }),

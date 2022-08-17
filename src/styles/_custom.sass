@@ -1,19 +1,421 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: rotation 70s infinite linear
     position: absolute
-    top: 40%
-    right: 50%
+    top: 8%
+    right: 8%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float1 9s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 58%
+    right: 20%
 
 @keyframes float1
   0%
-    transform: translateY(20px)
+    transform: translateX(20px)
 
   100%
-    transform: translateY(0px)
+    transform: translateX(0px)
+
+@-webkit-keyframes rotation 
+  from 
+    -webkit-transform: rotate(0deg)  
+  to 
+    -webkit-transform: rotate(359deg)
+
+//Tema 1
+
+.fa-chevron-right:before 
+  content: "\f054"
+  color: #FCC15A!important
+
+.fa-chevron-left:before 
+  content: "\f053"
+  color: #FCC15A!important
+
+.bg_fondo_1
+  position: relative
+  img, p
+    position: relative
+  &::before
+    content: ''
+    position: absolute       
+    margin: 0 -0rem
+    top: 4rem
+    left: 0%
+    width: calc(100% + 0rem)
+    height: 300px
+    background-image: url("../assets/curso/tema1/fond.jpg")
+    background-repeat: no-repeat
+    @media screen and (max-width: 1400px)        
+      content: ''
+      position: absolute       
+      margin: 0 0rem
+      top: 1rem
+      left: 0%
+      width: calc(100% + 0rem)
+      height: 500px
+      background-image: url("../assets/curso/tema1/fond.jpg")
+      background-repeat: no-repeat
+    @media screen and (max-width: 760px)        
+      content: ''
+      position: absolute       
+      margin: 0 0rem
+      top: 0rem
+      left: 0%
+      width: calc(100% + 0rem)
+      height: 900px
+      bbackground-image: url("../assets/curso/tema1/fond.jpg")
+      background-repeat: no-repeat
+
+.bloque-texto-g 
+  position: relative
+  display: flex
+  justify-content: flex-start
+
+.bloque-texto-g__img 
+  width: 50%
+  position: absolute
+  top: 0px
+  left: 50%
+  bottom: 0
+  background-position: center
+  background-size: cover
+
+.color-1
+  background-color: #E8CBD3
+  width: 328px
+  height: auto
+  @media screen and ( max-width: 1400px )
+    background-color: #E8CBD3
+    width: 270px
+    height: auto
+  @media screen and ( max-width: 1200px )
+    background-color: #E8CBD3
+    width: 330px
+    height: auto
+  @media screen and ( max-width: 999px )
+    background-color: #E8CBD3
+    width: 520px
+    height: auto
+  @media screen and ( max-width: 800px )
+    background-color: #E8CBD3
+    width: 410px
+    height: auto
+  @media screen and ( max-width: 600px )
+    background-color: #E8CBD3
+    width: 400px
+    height: auto
+  @media screen and ( max-width: 500px )
+    background-color: #E8CBD3
+    width: 290px
+    height: auto
+  @media screen and ( max-width: 400px )
+    background-color: #E8CBD3
+    width: 255px
+    height: auto
+
+.tarjeta-avatar > img 
+  position: absolute
+  left: 50%
+  top: 20px
+  transform: translateX(-50%)
+  display: block
+  width: 112px
+  margin: 0 auto
+
+.fondo-slyder
+  background-image: url('../assets/curso/tema1/fondo_slyder.png')
+  background-size: cover
+  background-repeat: no-repeat
+  padding: 2rem
+
+//tema2
+
+.color-2
+  background-color: #EAECC0
+  border-radius: 20px
+  height: 400px
+  width: 400px
+
+.clr-paleYellow
+  background-color: #FFF8D9
+  height: 473px
+  @media screen and ( max-width: 999px )
+    height: auto
+
+.clr-paleYellow-1
+  background-color: #F4F6DD
+  height: 404px
+  @media screen and ( max-width: 1400px )
+    height: auto
+  
+
+.tabla-a thead 
+  border-top: 0px solid
+  color: #12263F
+  background-color: #CED371
+
+.tabla-b thead 
+  border-top: 0px solid
+  color: #12263F
+  background-color: #A3314F
+
+.tarjeta-flip .tarjeta-flip__img 
+  width: 400px
+  height: 400px
+
+.titulo-principal1
+  margin-bottom: 48px
+  padding-bottom: 20px
+  display: flex
+  align-items: center
+
+.titulo-principal1__numero 
+  min-width: 27px
+  height: 27px
+  margin-right: 15px
+  position: relative
+  align-items: center
+
+.titulo-principal1.color-acento-contenido .titulo-principal1__numero 
+  background-color: #A3314F
+  align-items: center
+
+.tarjeta.tarjeta-azul
+  background-color: #F6F6F6
+
+.acordion__accion__btn--a
+  background-color: #ffffff !important
+
+.acordion__activo
+  background-image: url('../assets/curso/tema2/fondo.jpg')
+  background-size: cover
+  background-repeat: no-repeat
+
+.clr-paleYellow2
+  background-color: #FFDFE7
+  border-radius: 20px
+
+.clr-paleYellow3
+  background-color: #FFDA7F
+  border-radius: 20px
+
+.clr-paleYellow4
+  background-color: #EAECC0
+  border-radius: 20px
+
+.bloque-texto-g.color-primario1
+  background-color: #7B7E43
+
+.vaca
+  background-image: url('../assets/curso/tema2/fondo.jpg')
+  background-size: cover
+  background-repeat: no-repeat
+
+//tema3
+
+.tabs-c
+  border-bottom: 0px
+
+.tabs-c__header
+  margin-bottom: 0px
+
+.tabs-c__content-item 
+  background-image: url('../assets/curso/tema2/fondo.jpg')
+  background-repeat: no-repeat
+  background-size: cover  
+
+.linea-tiempo-d.color-linea .linea-tiempo-d__item--selected .linea-tiempo-d__item__number 
+  background-color: #E8CBD3
+  color: #12263F
+
+.linea-tiempo-d__item.row.linea-tiempo-d__item--selected .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+  background-color: #E8CBD3
+
+.clr-rosa
+  background-color: #F1DFE4
+.clr-amarillo
+  background-color: #F8F8EC
+
+.avatar
+  position: absolute
+  bottom: 0
+  right: -4rem
+  z-index: 1
+  @media (max-width: 1000px)
+    display: none
+
+.color-rosa
+  background-color: #E8CBD3
+
+.color-rosa2
+  background-color: #E8CBD3
+  height: 475px
+  @media (max-width: 1000px)
+    height: auto
+
+.color-rosa3
+  background-color: #E8CBD3
+  width: 330px
+  @media (max-width: 1000px)
+    width: auto
+
+.tarjeta-avatar > img 
+  position: absolute
+  left: 50%
+  top: 10px
+  transform: translateX(-50%)
+  display: block
+  width: 112px
+   margin: 0 auto
+
+.tarjeta-avatar .tarjeta 
+  display: inline-block
+  padding-top: 60px !important
+  height: 140px
+  @media (max-width: 1000px)
+    height: auto
+
+  display: inline-block
+  padding-top: 60px !important
+  height: 140px
+  @media (max-width: 1000px)
+    height: auto
+
+.bloque-texto-g1 
+  position: relative
+  display: flex
+  justify-content: flex-start
+
+.bloque-texto-g1.color-rojo
+  background-color: #A3314F
+
+.bloque-texto-g1__img 
+  width: 50%
+  position: absolute
+  top: 0px
+  right: 50%
+  bottom: 0
+  background-position: center
+  background-size: cover
+
+.bloque-texto-g1__texto 
+  position: relative
+  width: 60%
+  background-color: rgba(255, 255, 255, 0.95)
+  right: -40%
+
+//tema5
+
+.bg1
+  background-image: url(../assets/curso/tema1/fondo_slyder.png)
+  background-size: cover
+
+.linearoja
+  border-bottom: 3px solid #A3314F
+  margin-bottom: 48px
+  display: flex
+  align-items: center
+
+.lineamarilla
+  border-bottom: 3px solid #CED371
+  margin-bottom: 48px
+  display: flex
+  align-items: center
+
+.clr-paleYellow5
+  background-color: #F6F6F6
+  height: 847px
+  border-radius: 20px
+  @media screen and ( max-width: 999px )
+    height: auto
+  
+.clr-paleYellow6
+  background-color: #F4F6DD
+  height: 413px
+  border-radius: 20px
+  @media screen and ( max-width: 999px )
+    height: auto
+  
+.color-rosa4
+  background-color: #E8CBD3
+  width: 320px
+  @media (max-width: 1400px)
+    width: 260px
+  @media (max-width: 1200px)
+    width: 340px
+  @media (max-width: 1000px)
+    width: 500px
+  @media (max-width: 800px)
+    width: 300px
+  @media (max-width: 600px)
+    width: auto
+
+.color-rosa5
+  background-color: #E8CBD3
+  width: 320px
+  height: auto
+  @media (max-width: 1400px)
+    width: 260px
+  @media (max-width: 1200px)
+    width: 340px
+  @media (max-width: 1000px)
+    width: 500px
+  @media (max-width: 800px)
+    width: 300px
+  @media (max-width: 600px)
+    width: auto
+
+.clr-paleYellow7
+  background-color: #E1E4A8
+  height: 118px
+  border-radius: 0px
+  @media screen and ( max-width: 1400px )
+    height: auto
+
+.color-rosa6
+  background-color: #E8CBD3
+  width: auto
+  @media (max-width: 1400px)
+    width: 260px
+  @media (max-width: 1200px)
+    width: 340px
+  @media (max-width: 1000px)
+    width: auto
+  @media (max-width: 800px)
+    width: auto
+  @media (max-width: 600px)
+    width: auto
+
+.tarjeta-avatar1
+  height: 100%
+  position: relative
+  padding-top: 75px
+
+.tarjeta-avatar1 > img 
+  position: absolute
+  left: 50%
+  top: 10px
+  transform: translateX(-50%)
+  display: block
+  width: auto
+  
+
+.tarjeta-avatar1 .tarjeta 
+  display: inline-block
+  padding-top: 60px !important
+  display: inline-block
+  padding-top: 60px !important
+  height: 300px
+  @media (max-width: 800px)
+    height: 300px
+  @media (max-width: 600px)
+    height: auto
+
+.color-rosa7
+  background-color: #E8CBD3
+
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number 
+  background-color: #E8CBD3
+  color: #12263F
