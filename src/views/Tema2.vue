@@ -8,8 +8,31 @@
         span 2
       h1  Compensación laboral
     
+    .row.mb-5
+      .col-md-12.col-12
+        .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/tema2/img1.jpg')})`}"
+          )
+          .bloque-texto-g__texto.p-5
+            p Es el método sistemático que emplean las empresas para reconocer a sus empleados por el trabajo realizado. Cuando este mecanismo compensatorio es utilizado apropiadamente, favorece la atracción y retención del talento humano. Asimismo, favorece la configuración de un clima laboral apropiado, donde los trabajadores ofrecerán compensación, igualmente, mediante un buen desempeño laboral.
+
+    .row.mb-4
+      .col-lg-12
+        .cajon.color-acento-contenido(style='background-color: #E8CBD3').p-4
+          p.mb-0 Se considera compensación laboral cuando existe relación de vínculo por medio de un contrato laboral formal a término fijo, término indefinido o por labor u obra contratada entre empleado - empresa.
     
-    
+    .row.justify-content-center
+      .col-md-12
+        .crd.clr-paleYellow2.p-4.mb-4
+          .row.align-items-center
+            .col-md-1
+              figure
+                img(src='@/assets/curso/tema2/alerta.png', alt='alerta')
+            .col-md-11 
+              p.mb-0 Los contratos de prestación de servicios no configuran compensaciones laborales ni salariales, solo pagan honorarios a los proveedores, que es como se reconoce a quienes suministran servicios a las empresas bajo esta modalidad de contratación.
+
+    p.mb-4 En relación con las compensaciones laborales tenga en cuenta:
 
 </template>
 
@@ -17,32 +40,7 @@
 export default {
   name: 'Tema2',
   data: () => ({
-    datosSlyder: [
-      {
-        titulo: 'Espina de pescado',
-        texto:
-          'Estas son las más comunes y tradicionales en los sistemas productivos, estas se ubican de manera contigua y mirándose unas a las otras como su nombre lo indica en espina de pescado logrando que en el centro se realice la función del operario, de esta forma todas las vacas ingresan al ordeño al mismo tiempo y son ordeñadas igual, por ende se debe crear grupos homogéneos de producción.',
-        imagen: require('@/assets/curso/tema2/vaca1.jpg'),
-      },
-      {
-        titulo: 'Rotativo',
-        texto:
-          'Los animales son ingresados a una plataforma circular la cual realiza el ordeño al mismo tiempo que va sacado los animales mientras gira a medida que va girando sale una y entra otra ocupando el lugar de la anterior. Es una de las salas más costosas por el costo de inversión.',
-        imagen: require('@/assets/curso/tema2/vaca2.jpg'),
-      },
-      {
-        titulo: 'Tándem',
-        texto:
-          'Este sistema consta de jaulas individuales para cada animal a ordeñar donde las vacas una está detrás de la otra y cada una tiene entrada y salida independiente, permite el ordeño con cría para estimular mayor producción de leche.',
-        imagen: require('@/assets/curso/tema2/vaca3.jpg'),
-      },
-      {
-        titulo: 'Paralelo',
-        texto:
-          'En este sistema también vemos la entrada y salida de las vacas individualmente la disposición es una al lado de la otra su eficiencia radica en que se puede realizar el suministro de alimento mientras se realiza el ordeño.',
-        imagen: require('@/assets/curso/tema2/vaca4.jpg'),
-      },
-    ],
+    ///
   }),
   mounted() {
     this.$nextTick(() => {
