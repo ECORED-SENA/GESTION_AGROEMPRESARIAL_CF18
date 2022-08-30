@@ -114,8 +114,8 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-md-6
         .titulo-sexto.color-acento-contenido
-          h5 Figura 10
-          span - Indicadores para construir la matriz DOFA
+          h5 Figura 1
+          span - Estructura de gestión de las compensaciones
         figure
           img(src='@/assets/curso/tema2/fig1.svg', alt='Tipos de elasticidad de la oferta')
 
