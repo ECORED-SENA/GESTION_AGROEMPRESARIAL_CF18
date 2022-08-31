@@ -12,7 +12,7 @@
       .col-md-12.col-12
         .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/tema2/img1.jpg')})`}"
+            :style="{'background-image': `url(${require('@/assets/curso/tema3/img6.jpg')})`}"
           )
           .bloque-texto-g__texto.p-5
             p Se puede definir como el proceso administrativo del departamento de recursos humanos dentro de la gestión integral de recursos humanos, que busca identificar los logros, aportes, competencias, dificultades, debilidades de los empleados de las empresas, con el propósito de realizar acciones futuras, que permitan que la empresa alcance la efectividad y permita el desarrollo laboral y profesional de los trabajadores.
