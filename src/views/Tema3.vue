@@ -31,29 +31,29 @@
             .row.justify-content-center.mb-3
               .col-9
                 img(src='@/assets/curso/tema3/1.png' alt='Personas en oficina')
-            h5.text-center Responsable
-            p.text-center La administración y estructura funcional de las compensaciones laborales está a cargo del departamento o área de recursos humanos.
+            h5.text-center Cumplimiento de objetivos
+            p.text-center Analizar si los objetivos de los trabajadores, en cuanto al cumplimiento de sus funciones, se están cumpliendo.
 
           .tarjeta.color-rosa2.p-4
             .row.justify-content-center.mb-3
               .col-9
                 img(src='@/assets/curso/tema3/2.png' alt='Personas en oficina')
-            h5.text-center Criterios
-            p.text-center Desde recursos humanos se sustentan los beneficios y los salarios que se reconocerán al trabajador y se pactan en conformidad a su perfil.
+            h5.text-center Criterios justos y legítimos
+            p.text-center No debe tomarse como elemento aislado para dar continuidad laboral al trabajador.
 
           .tarjeta.color-rosa2.p-4
             .row.justify-content-center.mb-3
               .col-9
                 img(src='@/assets/curso/tema3/3.png' alt='Personas en oficina')
-            h5.text-center Consideración del perfil
-            p.text-center El perfil del trabajador para efectos de compensaciones estima: el nivel de responsabilidades, nivel de formación, tiempo de trabajo, funciones específicas y generales, entre otras.
+            h5.text-center Mejorar procesos
+            p.text-center La toma de decisiones en relación con la continuidad o asignación de roles a trabajadores se enfocará en mejorar los procesos.
 
           .tarjeta.color-rosa2.p-4
             .row.justify-content-center.mb-3
               .col-9
                 img(src='@/assets/curso/tema3/4.png' alt='Personas en oficina')
-            h5.text-center Nivel jerárquico en las organizaciones
-            p.text-center Regularmente, los cargos de obreros y operarios cuentan con niveles de compensación salarial menores en comparación a los cargos de coordinación y cargos directivos.
+            h5.text-centerPertinencia de las cargas horarias y de rol
+            p.text-center Las cargas de trabajo designadas para cada trabajador serán justas y pertinentes para permitirle operar, dando aportes y logrando objetivos.
     
     .row.justify-content-center.align-items-center.mb-4
       .col-md-6
@@ -118,6 +118,10 @@
           p.mb-0 Los aspectos a evaluar se pueden organizar por categorías, haciendo preguntas y a partir de ellas se establecen niveles de valuación o escalas de valoración. 
 
     p.mb-4 A continuación, se presenta un ejemplo de aspectos a evaluar por tipo de categorías a los empleados:
+
+    .titulo-sexto.color-acento-contenido
+      h5 Figura 2   
+      span - Ejemplo de tabla de formulario para evaluación de desempeño
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-12
@@ -1037,40 +1041,6 @@
         .row.justify-content-center   
           .col-lg-12
             LineaTiempoD.color-linea
-              .row.align-items-center(numero="1" titulo="Un equipo maduro") 
-                .col-md-12
-                  p Que el equipo sea lo suficientemente maduro y las relaciones entre colegas sean armoniosas para elegir este tipo de evaluación.
-
-              .row.align-items-center(numero="2" titulo="Claridad con la finalidad")
-                .col-md-12
-                  p Tener claridad con que la evaluación de desempeño tiene como finalidad establecer estrategias para la solución de problemas, orientar la capacitación, identificar conflictos, lograr motivar a los trabajadores y fomentar su desarrollo personal dentro de la empresa.
-
-              .row.align-items-center(numero="3" titulo="Nivel suficiente de conciencia")
-                .col-md-12
-                  p Tener conciencia suficiente para no concebir el proceso como una manera de castigar, reprender trabajadores o áreas de trabajo.
-
-              .row.align-items-center(numero="4" titulo="Dar continuidad al proceso mismo") 
-                .col-md-12
-                  p Reconocer la evaluación como un proceso permanente y continuo, para que tenga utilidad en la organización.
-
-              .row.align-items-center(numero="5" titulo="Saber la utilidad del proceso")
-                .col-md-12
-                  p Identificar la evaluación del desempeño como un elemento realmente, útil para el trabajador y la empresa, en tanto ambos serán ayudados a mejorar en las responsabilidades y funciones.
-
-      .col-md-6
-        figure
-          img.p-2(src='@/assets/curso/tema3/img4.jpg' alt='Seis vacas bebiendo agua')
-
-    p.mb-4 Para favorecer los procesos de evaluación, independientemente de la técnica o método seleccionado es muy importante:
-
-    .row.align-items-center.mb-5
-      .col-md-6
-        figure
-          img.p-2(src='@/assets/curso/tema3/img5.jpg' alt='Seis vacas bebiendo agua')
-      .col-md-6
-        .row.justify-content-center   
-          .col-lg-12
-            LineaTiempoD.color-linea
               .row.align-items-center(numero="1" titulo="Evaluación unidireccional") 
                 .col-md-5
                   figure
@@ -1113,11 +1083,47 @@
                 .col-md-7
                   p La evaluación y sus evaluadores se fijan  con base en la posición y relación que mantienen respecto a los objetivos funcionales por alcanzar, por ejemplo, en la evaluación de un vendedor, un cliente puede evaluar a un vendedor y a su vez el jefe de ventas. En el caso de la evaluación de supervisores de producción, estos pueden ser evaluados por los operarios subordinados, por su jefe de producción y puede ser evaluado por sus colegas supervisores.
 
+              
+
+      .col-md-6
+        figure
+          img.p-2(src='@/assets/curso/tema3/img4.jpg' alt='Seis vacas bebiendo agua')
+
+    p.mb-4 Para favorecer los procesos de evaluación, independientemente de la técnica o método seleccionado es muy importante:
+
+    .row.align-items-center.mb-5
+      .col-md-6
+        figure
+          img.p-2(src='@/assets/curso/tema3/img5.jpg' alt='Seis vacas bebiendo agua')
+      .col-md-6
+        .row.justify-content-center   
+          .col-lg-12
+            LineaTiempoD.color-linea
+              .row.align-items-center(numero="1" titulo="Un equipo maduro") 
+                .col-md-12
+                  p Que el equipo sea lo suficientemente maduro y las relaciones entre colegas sean armoniosas para elegir este tipo de evaluación.
+
+              .row.align-items-center(numero="2" titulo="Claridad con la finalidad")
+                .col-md-12
+                  p Tener claridad con que la evaluación de desempeño tiene como finalidad establecer estrategias para la solución de problemas, orientar la capacitación, identificar conflictos, lograr motivar a los trabajadores y fomentar su desarrollo personal dentro de la empresa.
+
+              .row.align-items-center(numero="3" titulo="Nivel suficiente de conciencia")
+                .col-md-12
+                  p Tener conciencia suficiente para no concebir el proceso como una manera de castigar, reprender trabajadores o áreas de trabajo.
+
+              .row.align-items-center(numero="4" titulo="Dar continuidad al proceso mismo") 
+                .col-md-12
+                  p Reconocer la evaluación como un proceso permanente y continuo, para que tenga utilidad en la organización.
+
+              .row.align-items-center(numero="5" titulo="Saber la utilidad del proceso")
+                .col-md-12
+                  p Identificar la evaluación del desempeño como un elemento realmente, útil para el trabajador y la empresa, en tanto ambos serán ayudados a mejorar en las responsabilidades y funciones.
+
     p.mb-4 En el siguiente video reconozca las ventajas de evaluar el desempeño laboral de los trabajadores y áreas de operación en la empresa. Tome nota de los aspectos más destacados y regístrelos en su libreta personal de apuntes:
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="942" height="530" src="https://www.youtube.com/embed/jCqSaOYUBL8" title="¿Por qué evaluar el desempeño laboral de los trabajadores en la empresa?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .tarjeta.color-acento-contenido.p-4.mb-5
       .row.justify-content-around.align-items-center
@@ -1133,7 +1139,6 @@
                 span Descargar
                 i.fas.fa-file-download
     
-
 
 </template>
 

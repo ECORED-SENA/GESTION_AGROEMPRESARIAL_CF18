@@ -15,7 +15,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema1/img1.jpg')})`}"
           )
           .bloque-texto-g__texto.p-5
-            p En el contexto contemporáneo uno de los mecanismos que establecen las empresas para lograr sus fines, objetivos o metas, así como también definir y aprovechar óptimamente los recursos de que disponen para su operación, requiere planear las actividades, las cuales deben ser muy efectivas; allí, los programas de capacitación y entrenamiento adquieren mayor relevancia.
+            p En el contexto contemporáneo uno de los mecanismos que establecen las empresas para lograr sus fines, objetivos o metas, así como también definir y aprovechar óptimamente los recursos de que disponen para su operación, requiere planear las actividades, las cuales deben ser muy efectivas; allí, <b>los programas de capacitación y entrenamiento</b> adquieren mayor relevancia.
 
     .row.mb-4
       .col-lg-12
@@ -121,7 +121,8 @@
     
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="942" height="530" src="https://www.youtube.com/embed/aTTAnPkXcg4" title="Plan de capacitación en la empresa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
 
 </template>
 

@@ -9,11 +9,15 @@
           i.fas.fa-info
       h1 Introducción
 
-    P.mb-5 Se da la bienvenida al estudio del componente formativo “Manejo de las especies pecuarias”. Para dar comienzo a esta experiencia de aprendizaje, se debe observar con atención el vídeo que enseguida se muestra. ¡Adelante!
-    
-    figure.mb-5
+    P.mb-4 Aquí comienza el estudio del componente #[span.color-text “Desarrollo humano”] Tenga una experiencia de aprendizaje satisfactoria; inicie visualizando el recurso que se propone a continuación. 
+
+    p.mb-4
+      b #[span.color-text ¡Adelante!]
+
+    figure.mb-4
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="942" height="530" src="https://www.youtube.com/embed/vyqz4KsgTNk" title="Desarrollo humano en las empresas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
 
 </template>
 

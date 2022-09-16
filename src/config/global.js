@@ -186,132 +186,181 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Blandez, M. (2014). Proceso administrativo. Editorial Digital UNID.',
+    },
+    {
+      referencia:
+        'Chiavenato, I. (2002). Gestión de talento humano. Editorial McGraw-Hill.',
+    },
+    {
+      referencia:
+        'Cifuentes, S. (2016). La compensación salarial como eje del desempeño y la productividad. Universidad Militar Nueva Granada.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://repository.unimilitar.edu.co/bitstream/handle/10654/16837/CifuentesRochaSandraNancy2016.pdf?sequence=1&isAllowed=y',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Finca y Campo. (2020). La dirección en las empresas agropecuarias. Finca y Campo.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'http://www.fincaycampo.com/2014/07/la-direccion-en-las-empresas-agropecuarias/',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'García, S. (1994). Introducción a la economía de la empresa. Diaz de Santos',
+      link: 'https://bit.ly/3f1XlRg',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Garza, T. (2009). Administración contemporánea. Reto para la empresa. Editorial Alhambra Mexicana.',
+    },
+    {
+      referencia:
+        'Gestiopolis. (2003). Proceso administrativo. Qué es, origen, características, principios y beneficios. Gestiopolis.',
+      link: 'https://www.gestiopolis.com/que-es-proceso-administrativo/',
+    },
+    {
+      referencia:
+        'Gregori, P. (s.f.). Herramientas estadísticas básicas de la calidad.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'http://www3.uji.es/~gregori/docencia/mt1021-1516/tema5-herramientas-pablo.html',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Infoagro. (s.f.). Indicadores sociales de las unidades productivas para el desarrollo rural en Argentina. Infoagro',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.infoagro.com/desarrollo/indicadores_sociales_desarrollo_rural_argentina.htm',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'Instituto Colombiano Agropecuario. (2016). Manual de funciones y competencias laborales. ICA.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'https://www.ica.gov.co/getdoc/bb0f47d2-ccab-45a4-beb2-b0a0eb69bc5f/manual-de-funciones-y-competencias-laborales-ica-2.aspx',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Laurence, P. (2014). Diagnóstico organizacional. Centro Regional de Ayuda Técnica.',
+    },
+    {
+      referencia: 'Las Limas. (2019). Planeación de la empresa. Estelí.',
+    },
+    {
+      referencia: 'Las Limas. (2013). Datos generales de la empresa. Estelí.',
+    },
+    {
+      referencia:
+        'Ledezma, Y. (2017). Técnicas y herramientas de predicción del talento humano.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'http://yariaudyledezmagth.blogspot.com/2017/11/actividad-12-tecnicas-y-herramientas-de.html',
+    },
+    {
+      referencia:
+        'Portugal, V. (s.f.). Diagnóstico empresarial. Fundación Universitaria del Área Andina.',
+    },
+    {
+      referencia:
+        'Restrepo, F. y Arias, F. (2015). Las prácticas de gestión del talento humano en empresas agropecuarias del sector bananero en Colombia. Journal of Agriculture.',
+    },
+    {
+      referencia:
+        'Riquelme, M. (2019). Proceso administrativo: sus 4 etapas, fases y características. Webyempresas.',
+      link: 'https://www.webyempresas.com/proceso-administrativo/',
+    },
+    {
+      referencia:
+        'Rodríguez, D. (2012). Diagnóstico organizacional. Alfa Omega Grupo Editor.',
+    },
+    {
+      referencia:
+        'Subsecretaría de Inclusión Laboral. (s.f.). Elaboración de programas de capacitación - Guía de capacitación. Subsecretaría de Inclusión Laboral.',
+      link:
+        'https://www.gob.mx/cms/uploads/attachment/file/160973/Elaboracion_de_programas_de_capacitaci_n_Anexo_1_250_1.pdf',
+    },
+    {
+      referencia:
+        'Tlaxcala, I. (s.f.). Herramientas estadísticas. Instituto Tecnológico Apizaco de Tlaxcala. ',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Agremiación',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Asociación sin ánimo de lucro y con personería jurídica que reúne personas del mismo oficio o profesión dedicadas a la producción de bienes agrícolas o forestales (MinAgricultura, 2018).',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Compensación',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es el pago que se realiza a un trabajador en dinero o especie, que se otorga  por un servicio prestado a la empresa.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Empleador',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Que da empleo a otros, puede ser una persona natural o la empresa agropecuaria.',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Evaluación de desempeño',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Actividad de verificación respecto a los deberes que los trabajadores cumplen, así como de aspectos motivacionales, necesidades de capacitación, entre otros.',
     },
     {
-      termino: 'Moda',
+      termino: 'Insumo',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Bien de cualquier clase de empleado en la producción de otros bienes.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Mercado',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Conjunto de actividades relacionadas con la compra y venta de mercancías y servicios.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Operario',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Persona que tiene un oficio de tipo manual o que requiere esfuerzo físico, en especial si maneja una máquina en una fábrica o taller.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Organigrama',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Es la representación gráfica de la estructura de una empresa o cualquier otra organización, que incluye las estructuras departamentales y, en algunos casos, las personas que las dirigen hacen un esquema sobre las relaciones jerárquicas.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Personal',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'Que se realiza con la participación de una persona físicamente presente y no utilizando medios indirectos, como el teléfono o la mediación de otras personas.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Recursos',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Lista ordenada de bienes y demás cosas valorables que pertenecen a una persona, empresa o institución, para el desarrollo de sus actividades.',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Sueldo básico',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es la compensación básica, regularmente en dinero en su totalidad, que se complementa con otras iniciativas de compensación y que componen parte del bienestar de los trabajadores.',
     },
   ],
   complementario: [
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Compensación laboral',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Cifuentes, S. (2016). La compensación salarial como eje del desempeño y la productividad. Universidad Militar Nueva Granada.',
+      tipo: 'Documento',
+      link:
+        'https://repository.unimilitar.edu.co/bitstream/handle/10654/16837/CifuentesRochaSandraNancy2016.pdf?sequence=1&isAllowed=y',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Acciones formativas, correctivas y disciplinarias',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Lobo, C. (2017). Gestión del talento humano. Fundación Universitaria del Área Andina.',
+      tipo: 'Documento',
+      link:
+        'https://digitk.areandina.edu.co/bitstream/handle/areandina/1484/Gesti%C3%B3n del Talento Humano.pdf?sequence=1&isAllowed=y',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Evaluación de desempeño',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Kenjo. (s.f.). Guía de evaluación de desempeño para recursos humanos. Kenjo. ',
+      tipo: 'Página web',
+      link:
+        'https://www.kenjo.io/es/guia-evaluacion-desempeno-para-recursos-humanos',
     },
   ],
   creditos: {
