@@ -52,7 +52,7 @@
             .row.justify-content-center.mb-3
               .col-9
                 img(src='@/assets/curso/tema3/4.png' alt='Personas en oficina')
-            h5.text-centerPertinencia de las cargas horarias y de rol
+            h5.text-center Pertinencia de las cargas horarias y de rol
             p.text-center Las cargas de trabajo designadas para cada trabajador serán justas y pertinentes para permitirle operar, dando aportes y logrando objetivos.
     
     .row.justify-content-center.align-items-center.mb-4
@@ -1082,9 +1082,6 @@
                     img.p-2(src='@/assets/curso/tema3/6.jpg' alt='granjero')
                 .col-md-7
                   p La evaluación y sus evaluadores se fijan  con base en la posición y relación que mantienen respecto a los objetivos funcionales por alcanzar, por ejemplo, en la evaluación de un vendedor, un cliente puede evaluar a un vendedor y a su vez el jefe de ventas. En el caso de la evaluación de supervisores de producción, estos pueden ser evaluados por los operarios subordinados, por su jefe de producción y puede ser evaluado por sus colegas supervisores.
-
-              
-
       .col-md-6
         figure
           img.p-2(src='@/assets/curso/tema3/img4.jpg' alt='Seis vacas bebiendo agua')

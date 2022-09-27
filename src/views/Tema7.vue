@@ -77,16 +77,16 @@
         ul.lista-ul--color
           li 
             i.fas.fa-angle-right
-            | Problemas de actitud relacionados con la autoestima, por malos esquemas de comunicación, de bajas capacidades de trabajo en equipo, de coordinación de procesos, etc.
+            | <b>Problemas de actitud</b> relacionados con la autoestima, por malos esquemas de comunicación, de bajas capacidades de trabajo en equipo, de coordinación de procesos, etc.
           li 
             i.fas.fa-angle-right
-            | Perfiles formativos y de actualización de conocimientos relacionados con el desempeño del trabajo mal no actualizados o ausentes.
+            | <b>Perfiles formativos y de actualización</b> de conocimientos relacionados con el desempeño del trabajo mal no actualizados o ausentes.
           li 
             i.fas.fa-angle-right
-            | Asignaciones equivocadas de trabajadores a puestos de trabajo actuales, bien por experiencia, formación, por características del trabajador no ajustadas para el puesto, problemas de salud, etc. 
+            | <b>Asignaciones equivocadas</b> de trabajadores a puestos de trabajo actuales, bien por experiencia, formación, por características del trabajador no ajustadas para el puesto, problemas de salud, etc. 
           li 
             i.fas.fa-angle-right
-            | Falta de interés en el trabajo que desempeña actualmente, por vocación, inequidad laboral o de inconformidad en las condiciones laborales y de compensación. 
+            | <b>Falta de interés</b> en el trabajo que desempeña actualmente, por vocación, inequidad laboral o de inconformidad en las condiciones laborales y de compensación. 
     
     .row.mb-4
       .col-md-12.col-12

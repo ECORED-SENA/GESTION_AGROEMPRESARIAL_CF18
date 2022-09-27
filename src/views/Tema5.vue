@@ -29,7 +29,7 @@
             | La medición y control que, efectivamente, es la función para la cual se establecen.
           li 
             i.fas.fa-angle-right
-            | Los instrumentos que facilitan identificar y evaluar los niveles de cumplimiento o desviación de los logros o actividades a realizar frente a los resultados esperados.
+            | Los <b>instrumentos que facilitan identificar y evaluar los niveles de cumplimiento o desviación</b> de los logros o actividades a realizar frente a los resultados esperados.
           li 
             i.fas.fa-angle-right
             | KPI (Key Performance Indicator).
@@ -99,6 +99,11 @@
       .h4 5.1. Diagrama de causa - efecto
 
     p.mb-4 Es una herramienta para identificar de manera estructurada las causas de un problema o efecto evidenciado, a partir de un esquema gráfico que se asemeja a una espina de pescado, que es como también se denomina a esta herramienta.
+
+    .row.mb-5
+      .col-md-12
+        figure
+          img(src='@/assets/curso/tema5/pez.png', alt='Texto que describa la imagen')
 
     .row.mb-4
       .col-lg-12
@@ -227,7 +232,7 @@
                 td 100,00%
                 td
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-4
       .col-md-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 5
@@ -235,6 +240,9 @@
       .col-md-12
         figure
           img(src='@/assets/curso/tema5/fig1.svg', alt='Tipos de elasticidad de la oferta')
+
+    .row.mb-4
+      h5.text-center Causas de la queja
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-6

@@ -109,7 +109,7 @@
         figure
           img(src='@/assets/curso/tema2/subtitulo.png' alt='comedores')
 
-    p.mb-5 Las compensaciones laborales pueden ser de orden monetario, donde los pagos que recibe el trabajador son rigurosamente en dinero. También pueden ser de orden no monetario, donde las retribuciones tienen carácter de complementarias, en tanto que favorecen su gasto, el que tendría con su sueldo base; pero que no son obligatorias y que la empresa otorga en cualquier tipo de especie legal. Ver figura.
+    p.mb-5 Las compensaciones laborales pueden ser de orden monetario, donde los pagos que recibe el trabajador son rigurosamente en dinero. También pueden ser de orden no monetario, donde las retribuciones tienen carácter de <b> <FONT COLOR="#A3314F"> complementarias, </FONT> </b> en tanto que favorecen su gasto, el que tendría con su sueldo base; pero que no son obligatorias y que la empresa otorga en cualquier tipo de especie legal. Ver figura.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-md-6

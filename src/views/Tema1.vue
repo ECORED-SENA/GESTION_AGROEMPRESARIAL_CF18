@@ -15,7 +15,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema1/img1.jpg')})`}"
           )
           .bloque-texto-g__texto.p-5
-            p En el contexto contemporáneo uno de los mecanismos que establecen las empresas para lograr sus fines, objetivos o metas, así como también definir y aprovechar óptimamente los recursos de que disponen para su operación, requiere planear las actividades, las cuales deben ser muy efectivas; allí, <b>los programas de capacitación y entrenamiento</b> adquieren mayor relevancia.
+            p En el contexto contemporáneo uno de los mecanismos que establecen las empresas para lograr sus fines, objetivos o metas, así como también definir y aprovechar óptimamente los recursos de que disponen para su operación, requiere planear las actividades, las cuales deben ser muy efectivas; allí, <b>os programas de capacitación y entrenamiento</b> adquieren mayor relevancia.
 
     .row.mb-4
       .col-lg-12
@@ -78,7 +78,7 @@
                 figure
                   img(src='@/assets/curso/tema1/5.png', alt='Animales de granja')
 
-    p.mb-5 Para la generación y aplicación del plan de capacitación hay dos acciones previas que requieren toda la atención de la empresa y que, de ser aplicadas de manera adecuada, asegurarían más y mejor la efectividad del proceso de formación permanente: diagnosticar y priorizar.
+    p.mb-5 Para la generación y aplicación del plan de capacitación hay dos acciones previas que requieren toda la atención de la empresa y que, de ser aplicadas de manera adecuada, asegurarían más y mejor la efectividad del proceso de formación permanente:  <b> <FONT COLOR="#A3314F"> diagnosticar y priorizar. </FONT> </b> 
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-10

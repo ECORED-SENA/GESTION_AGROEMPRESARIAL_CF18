@@ -9,10 +9,9 @@
           i.fas.fa-info
       h1 Introducción
 
-    P.mb-4 Aquí comienza el estudio del componente #[span.color-text “Desarrollo humano”] Tenga una experiencia de aprendizaje satisfactoria; inicie visualizando el recurso que se propone a continuación. 
+    P.mb-4 Aquí comienza el estudio del componente <b> <FONT COLOR="#A3314F"> Desarrollo humano </FONT> </b> Tenga una experiencia de aprendizaje satisfactoria; inicie visualizando el recurso que se propone a continuación. 
 
-    p.mb-4
-      b #[span.color-text ¡Adelante!]
+    p.mb-4 <b> <FONT COLOR="#A3314F"> ¡Adelante! </FONT> </b>
 
     figure.mb-4
       .video
