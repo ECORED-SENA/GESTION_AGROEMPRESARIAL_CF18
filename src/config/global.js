@@ -387,13 +387,13 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Edison Eduardo Mantilla Cuadros',
         cargo: 'Diseño web ',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Daniel Mutis',
         cargo: 'Validación Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
@@ -411,7 +411,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Mariac Ovalle',
         cargo: 'Validación de Maquetación',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
