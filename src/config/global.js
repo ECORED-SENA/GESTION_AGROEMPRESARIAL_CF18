@@ -405,7 +405,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Leonardo Pico',
         cargo: 'Soporte front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
@@ -423,7 +423,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Mariac Ovalle',
         cargo: 'Validación Contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
