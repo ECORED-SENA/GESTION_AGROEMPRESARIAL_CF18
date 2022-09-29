@@ -8,7 +8,7 @@
         span 3
       h1  Evaluación de desempeño
     
-    .row.mb-5
+    .row.mb-5(data-aos="fade")
       .col-md-12.col-12
         .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -17,14 +17,14 @@
           .bloque-texto-g__texto.p-5
             p Se puede definir como el proceso administrativo del departamento de recursos humanos dentro de la gestión integral de recursos humanos, que busca identificar los logros, aportes, competencias, dificultades, debilidades de los empleados de las empresas, con el propósito de realizar acciones futuras, que permitan que la empresa alcance la efectividad y permita el desarrollo laboral y profesional de los trabajadores.
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right")
       .col-lg-12
         .cajon.color-acento-contenido(style='background-color: #E1E4A8').p-4
           p.mb-0 Por tanto, la evaluación de desempeño es un proceso para medir y evaluar, de forma objetiva, el trabajo de un empleado durante un período determinado, evidenciando la contribución a los objetivos empresariales, identificando aspectos a mejorar.
 
-    p.mb-4 El proceso de evaluación de desempeño laboral a los empleados es útil, en tanto que:
+    p.mb-4(data-aos="fade-left") El proceso de evaluación de desempeño laboral a los empleados es útil, en tanto que:
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-md-12
         SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
           .tarjeta.color-rosa2.p-4
@@ -56,10 +56,10 @@
             p.text-center Las cargas de trabajo designadas para cada trabajador serán justas y pertinentes para permitirle operar, dando aportes y logrando objetivos.
     
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-6
+      .col-md-6(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img1.jpg', alt='alerta')
-      .col-md-6
+      .col-md-6(data-aos="fade-left")
         p.mb-4 Una buena evaluación de desempeño laboral tiene tres aspectos clave por verificar, respecto del desempeño del trabajo y aporte de los trabajadores:
         ul.lista-ul--color
           li 
@@ -73,7 +73,7 @@
             | Iniciativa y el potencial que posee para desarrollar el trabajo o nuevas actividades.
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-6
+      .col-md-6(data-aos="fade-right")
         p.mb-4 En este sentido, se debe evaluar individualmente aspectos como:
         ul.lista-ul--color
           li 
@@ -94,16 +94,16 @@
           li 
             i.fas.fa-angle-right
             | Capacidades de liderazgo, etc.
-      .col-md-6
+      .col-md-6(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/img2.jpg', alt='alerta')
       
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right")
       .col-lg-3
         figure
           img(src='@/assets/curso/tema3/subtitulo.png' alt='comedores')
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade")
       .col-md-12.col-12
         .bloque-texto-g1.color-rojo.p-3.p-sm-4.p-md-5
           .bloque-texto-g1__img(
@@ -112,18 +112,18 @@
           .bloque-texto-g1__texto.p-5
             p Regularmente se realizan las evaluaciones de desempeño a partir de formularios que, en conformidad con la técnica se aplicarán, es decir, el formulario se usará para recoger información por parte del evaluador o por parte de un ejercicio de autoevaluación.
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right")
       .col-lg-12
         .cajon.color-acento-contenido(style='background-color: #E1E4A8').p-4
           p.mb-0 Los aspectos a evaluar se pueden organizar por categorías, haciendo preguntas y a partir de ellas se establecen niveles de valuación o escalas de valoración. 
 
-    p.mb-4 A continuación, se presenta un ejemplo de aspectos a evaluar por tipo de categorías a los empleados:
+    p.mb-4(data-aos="fade-left") A continuación, se presenta un ejemplo de aspectos a evaluar por tipo de categorías a los empleados:
 
-    .titulo-sexto.color-acento-contenido
+    .titulo-sexto.color-acento-contenido(data-aos="fade-right")
       h5 Figura 2   
       span - Ejemplo de tabla de formulario para evaluación de desempeño
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-md-12
         .tabla-a.color-primario
           table
@@ -285,7 +285,7 @@
                     </label>
                   </div>
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-md-12
         .tabla-a.color-primario
           table
@@ -521,7 +521,7 @@
                     </label>
                   </div>
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-md-12
         .tabla-a.color-primario
           table
@@ -683,7 +683,7 @@
                     </label>
                   </div>
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-md-12
         .tabla-a.color-primario
           table
@@ -882,7 +882,7 @@
                     </label>
                   </div>
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-md-12
         .tabla-a.color-primario
           table
@@ -1007,7 +1007,7 @@
                     </label>
                   </div>
     
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-right")
       .col-md-12
         .crd.clr-paleYellow2.p-4.mb-4
           .row.align-items-center
@@ -1018,7 +1018,7 @@
               h5.mb-2 Aspectos a evaluar
               p.mb-0 Las empresas desde el departamento de recursos humanos, determinarán y diseñarán los aspectos a evaluar, y diseñará los instrumentos para realizar la evaluación.
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-left")
       .col-md-12
         .crd.clr-paleYellow3.p-4.mb-4
           .row.align-items-center
@@ -1029,14 +1029,14 @@
               h5.mb-2 Métodos electrónicos
               p.mb-0 Cuando los medios y los tipos de trabajo de los empleados lo permitan, se puede realizar mediante métodos electrónicos de formularios, lo que facilita el proceso y la compilación de la información.
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right")
       .col-lg-6
         figure
           img(src='@/assets/curso/tema3/subtitulo2.png' alt='comedores')
 
-    p.mb-4 Existen variados métodos de evaluación de desempeño a los trabajadores, de los cuales los más frecuentemente utilizados en empresas pequeñas y del sector agropecuario son:
+    p.mb-4(data-aos="fade-right") Existen variados métodos de evaluación de desempeño a los trabajadores, de los cuales los más frecuentemente utilizados en empresas pequeñas y del sector agropecuario son:
 
-    .row.align-items-center.mb-5
+    .row.align-items-center.mb-5(data-aos="fade")
       .col-md-6
         .row.justify-content-center   
           .col-lg-12
@@ -1086,9 +1086,9 @@
         figure
           img.p-2(src='@/assets/curso/tema3/img4.jpg' alt='Seis vacas bebiendo agua')
 
-    p.mb-4 Para favorecer los procesos de evaluación, independientemente de la técnica o método seleccionado es muy importante:
+    p.mb-4(data-aos="fade-right") Para favorecer los procesos de evaluación, independientemente de la técnica o método seleccionado es muy importante:
 
-    .row.align-items-center.mb-5
+    .row.align-items-center.mb-5(data-aos="fade")
       .col-md-6
         figure
           img.p-2(src='@/assets/curso/tema3/img5.jpg' alt='Seis vacas bebiendo agua')
@@ -1116,13 +1116,13 @@
                 .col-md-12
                   p Identificar la evaluación del desempeño como un elemento realmente, útil para el trabajador y la empresa, en tanto ambos serán ayudados a mejorar en las responsabilidades y funciones.
 
-    p.mb-4 En el siguiente video reconozca las ventajas de evaluar el desempeño laboral de los trabajadores y áreas de operación en la empresa. Tome nota de los aspectos más destacados y regístrelos en su libreta personal de apuntes:
+    p.mb-4(data-aos="fade-right") En el siguiente video reconozca las ventajas de evaluar el desempeño laboral de los trabajadores y áreas de operación en la empresa. Tome nota de los aspectos más destacados y regístrelos en su libreta personal de apuntes:
 
-    figure.mb-5
+    figure.mb-5(data-aos="fade")
       .video
         iframe(width="942" height="530" src="https://www.youtube.com/embed/jCqSaOYUBL8" title="¿Por qué evaluar el desempeño laboral de los trabajadores en la empresa?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    .tarjeta.color-acento-contenido.p-4.mb-5
+    .tarjeta.color-acento-contenido.p-4.mb-5(data-aos="fade-right")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/tema3/icon1.png")

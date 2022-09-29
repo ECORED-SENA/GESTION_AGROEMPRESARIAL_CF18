@@ -8,7 +8,7 @@
         span 1
       h1  Capacitación
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade")
       .col-md-12.col-12
         .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -17,19 +17,19 @@
           .bloque-texto-g__texto.p-5
             p En el contexto contemporáneo uno de los mecanismos que establecen las empresas para lograr sus fines, objetivos o metas, así como también definir y aprovechar óptimamente los recursos de que disponen para su operación, requiere planear las actividades, las cuales deben ser muy efectivas; allí, <b>os programas de capacitación y entrenamiento</b> adquieren mayor relevancia.
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade")
       .col-lg-12
         .cajon.color-acento-contenido(style='background-color: #E1E4A8').p-4
           p.mb-0 Con el adecuado diseño y aplicación de los programas de capacitación y entrenamiento se afianza a los trabajadores para el desarrollo de sus actividades de manera más eficiente.
     separador
 
-    #t_1_1.titulo-segundo.color-acento-contenido
+    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 1.1.	Programa de capacitación
 
-    p.mb-4 Es un conjunto de actividades de enseñanza, aprendizaje e instrucción, estructuradas de una forma adecuada, que permiten conducir o lograr una serie de objetivos corporativos, funcionales o de unidad de negocio, que han sido previamente establecidos en la planeación institucional.
-    p.mb-4 Algunas generalidades destacadas del programa de capacitación son:
+    p.mb-4(data-aos="fade-right") Es un conjunto de actividades de enseñanza, aprendizaje e instrucción, estructuradas de una forma adecuada, que permiten conducir o lograr una serie de objetivos corporativos, funcionales o de unidad de negocio, que han sido previamente establecidos en la planeación institucional.
+    p.mb-4(data-aos="fade-right") Algunas generalidades destacadas del programa de capacitación son:
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-left")
       .col-md-12
         .tarjeta.fondo-slyder.mb-5
           SlyderA(tipo="b")
@@ -78,9 +78,9 @@
                 figure
                   img(src='@/assets/curso/tema1/5.png', alt='Animales de granja')
 
-    p.mb-5 Para la generación y aplicación del plan de capacitación hay dos acciones previas que requieren toda la atención de la empresa y que, de ser aplicadas de manera adecuada, asegurarían más y mejor la efectividad del proceso de formación permanente:  <b> <FONT COLOR="#A3314F"> diagnosticar y priorizar. </FONT> </b> 
+    p.mb-5(data-aos="fade-right") Para la generación y aplicación del plan de capacitación hay dos acciones previas que requieren toda la atención de la empresa y que, de ser aplicadas de manera adecuada, asegurarían más y mejor la efectividad del proceso de formación permanente:  <b> <FONT COLOR="#A3314F"> diagnosticar y priorizar. </FONT> </b> 
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-up")
       .col-md-10
         .row 
           .col-md-4
@@ -105,10 +105,10 @@
               p.text-center.mb-4 En ocasiones se puede presentar que en el diagnóstico se identifiquen diversas necesidades en la empresa, pero a su vez, dentro de un mismo grupo de empleados funcionales; en ese caso es necesario establecer un orden de prioridades, definiendo el orden secuencial de temas y fijando un esquema de equidad a las diferentes áreas.
     separador
 
-    #t_1_2.titulo-segundo.color-acento-contenido
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 1.2.	Estructura de un plan de capacitación
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-left")
       .col-md-12.col-12
         .bloque-texto-g1.color-rojo.p-3.p-sm-4.p-md-5
           .bloque-texto-g1__img(
@@ -117,9 +117,9 @@
           .bloque-texto-g1__texto.p-4
             p Para elaborar y estructurar un plan de capacitación se debe contar con información referencial derivada del diagnóstico y la priorización de necesidades identificadas por la empresa, lo cual permite fijar los objetivos propios del programa o plan. Los planes de capacitación están orientados, específicamente, a la mejora de aspectos relacionados con la motivación, actitud, procederes, habilidades de desempeño, crecimiento personal y crecimiento profesional.
 
-    p.mb-4 En el siguiente video se muestran los parámetros para establecer el plan de capacitación, obsérvelo con atención e identifique tales parámetros y otros aspectos importantes que allí se señalan: 
+    p.mb-4(data-aos="fade-right") En el siguiente video se muestran los parámetros para establecer el plan de capacitación, obsérvelo con atención e identifique tales parámetros y otros aspectos importantes que allí se señalan: 
     
-    figure.mb-5
+    figure.mb-5(data-aos="fade-right")
       .video
         iframe(width="942" height="530" src="https://www.youtube.com/embed/aTTAnPkXcg4" title="Plan de capacitación en la empresa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 

@@ -8,7 +8,7 @@
         span 7
       h1  Acciones formativas, correctivas y disciplinarias
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade")
       .col-md-12.col-12
         .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -17,16 +17,16 @@
           .bloque-texto-g__texto.p-5
             p Los problemas son fácilmente observables y tratables desde las medidas del diálogo sincero, la comunicación directa y el seguimiento operativo. La evaluación al desempeño laboral de los trabajadores en la empresa permite identificar las problemáticas y aplicar soluciones. Existen variadas posibilidades que pueden aplicarse desde un mismo plan de mejora, lo cual depende del análisis al desempeño.
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right")
       .col-lg-12
         .cajon.color-acento-contenido(style='background-color: #E1E4A8').p-4
           p.mb-0 El deber ser del empresario, en pro del desarrollo laboral y empresarial, es buscar las soluciones más adecuadas que se puedan aplicar antes de recurrir a situaciones indeseadas de despido de trabajadores. Esto podría implicar grandes pérdidas de productividad y generación de costos a las empresas, pérdida de inversiones previas, etc.
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-3
+      .col-md-3(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema7/img2.jpg', alt='alerta')
-      .col-md-7
+      .col-md-7(data-aos="fade-left")
         p.mb-4 A partir de los análisis de desempeño, el control a los procesos y el cumplimiento de las actividades, se plantean acciones del plan de mejora a los trabajadores donde:
         ul.lista-ul--color
           li 
@@ -40,7 +40,7 @@
             | La empresa definirá, necesariamente, acciones preventivas y disciplinarias que resultarán del proceso de mejora.
         p.mb-4 En relación con este proceso tenga claridad sobre los siguientes términos; procure llevar registro de su definición y particularidades en su libreta personal de apuntes:
     
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade")
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-azul")
         .row.align-items-center(titulo="Preventivas")
           .col-md-6.mb-4.mb-md-0
@@ -63,16 +63,16 @@
             figure
               img(src='@/assets/curso/tema7/3.png', alt='Granja')
 
-    .titulo-principal1.color-acento-contenido
+    .titulo-principal1.color-acento-contenido(data-aos="fade-right")
       .titulo-principal1__numero
         span 
       h4.mb-0 Principales problemas en la gestión del talento humano
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-6
+      .col-md-6(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema7/img3.jpg', alt='alerta')
-      .col-md-6
+      .col-md-6(data-aos="fade-left")
         p.mb-4 Los análisis de control, seguimiento y de evaluación de desempeño de los trabajadores evidencian los siguientes tipos de problemas más frecuentes, sobre los cuales se adoptarán las acciones preventivas, correctivas y disciplinarias, en conformidad a su nivel de impacto en la empresa.
         ul.lista-ul--color
           li 
@@ -88,7 +88,7 @@
             i.fas.fa-angle-right
             p <b>Falta de interés</b> en el trabajo que desempeña actualmente, por vocación, inequidad laboral o de inconformidad en las condiciones laborales y de compensación. 
     
-    .row.mb-4
+    .row.mb-4(data-aos="fade")
       .col-md-12.col-12
         .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -97,7 +97,7 @@
           .bloque-texto-g__texto.p-5
             p Con este derrotero de problemas, el gestor de recursos humanos deberá diseñar y emprender acciones que permitan superar las dificultades y consolidar un ambiente de desarrollo laboral apropiado y de clima organizacional.
             
-    .row 
+    .row(data-aos="fade-right")
       .col-md-12
         .tarjeta.color-acento-contenido.p-4
           .row.justify-content-around.align-items-center

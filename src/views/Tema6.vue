@@ -8,7 +8,7 @@
         span 6
       h1  Plan de mejora: concepto, requerimiento y aplicación
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade")
       .col-md-12.col-12
         .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -17,9 +17,9 @@
           .bloque-texto-g__texto.p-5
             p El plan de mejora de rendimiento de los empleados es una herramienta estándar para ayudarlos a mejorar sus rendimientos, sobre todo a aquellos que presentan bajos niveles. El objetivo de este plan de mejora de rendimiento es ayudar a los empleados a abordar y corregir cualquier problema en el trabajo.
 
-    p.mb-4 Al evaluador o supervisor de mejora le corresponde desarrollar un plan de mejora del rendimiento antes de tomar medidas disciplinarias contra un empleado, a fin de incluirlo en la elaboración de estrategias para tal fin. Son múltiples las razones por las cuales los trabajadores tienen desviaciones frente a los resultados esperados.
+    p.mb-4(data-aos="fade-right") Al evaluador o supervisor de mejora le corresponde desarrollar un plan de mejora del rendimiento antes de tomar medidas disciplinarias contra un empleado, a fin de incluirlo en la elaboración de estrategias para tal fin. Son múltiples las razones por las cuales los trabajadores tienen desviaciones frente a los resultados esperados.
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-left")
       .col-md-12
         .crd.clr-paleYellow2.p-4.mb-4
           .row.align-items-center
@@ -29,9 +29,9 @@
             .col-md-11
               p.mb-0 Para incluir un trabajador en un plan de mejoramiento de desempeño, se necesitan evidencias concretas respecto a su bajo desempeño en alguno de los aspectos de la evaluación adelantada. Por lo general se considera la información de las evaluaciones de desempeño adelantadas para, después de un análisis, determinar las necesidades o prioridades de mejora.
 
-    p.mb-4 A continuación reconozca las etapas clave del proceso requerido para establecer el plan de mejoramiento a trabajadores, según la evaluación de desempeño:
+    p.mb-4(data-aos="fade-right") A continuación reconozca las etapas clave del proceso requerido para establecer el plan de mejoramiento a trabajadores, según la evaluación de desempeño:
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-md-12
         SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
           .tarjeta.color-rosa3.p-4

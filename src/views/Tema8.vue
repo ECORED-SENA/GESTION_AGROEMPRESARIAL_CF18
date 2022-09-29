@@ -8,7 +8,7 @@
         span 8
       h1 Normatividad asociada
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade")
       .col-md-12.col-12
         .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -17,14 +17,14 @@
           .bloque-texto-g__texto.p-5
             p El recurso humano de las empresas son todas las personas que aportan y desarrollan la productividad, para lo cual es fundamental que las empresas conozcan las normas y leyes que se aplican al proceso de gestión de dicho talento humano en Colombia.
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right")
       .col-lg-12
         .cajon.color-acento-contenido(style='background-color: #E1E4A8').p-4
           p.mb-0 La adecuada gestión del recurso humano garantiza que los trabajadores puedan tener, en conjunto, unas buenas condiciones de contratación y desarrollo de sus labores en la empresa, poder estar seguros y estar motivados.
 
-    p.mb-4 En relación con la normatividad asociada a los procesos de gestión del talento humano recuerde:
+    p.mb-4(data-aos="fade-right") En relación con la normatividad asociada a los procesos de gestión del talento humano recuerde:
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-md-3
         .tarjeta.color-rosa4.p-4
           figure.mb-4

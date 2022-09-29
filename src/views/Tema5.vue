@@ -8,7 +8,7 @@
         span 5
       h1  Indicadores de gestión
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade")
       .col-md-12.col-12
         .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -18,26 +18,26 @@
             p Son los instrumentos a través de los cuales la empresa mide sus desempeños en las diferentes funciones, actividades que desarrollan los trabajadores y que contrastan con los resultados esperados y fijados desde sus funciones.
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-6
+      .col-md-6(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema5/img2.jpg', alt='Tipos de elasticidad de la oferta')
-      .col-md-6
+      .col-md-6(data-aos="fade-left")
         p.mb-4 Cuando se habla de indicadores de gestión se hace referencia a:
         ul.lista-ul--color
           li 
             i.fas.fa-angle-right
-            | La medición y control que, efectivamente, es la función para la cual se establecen.
+            p.mb-0 La medición y control que, efectivamente, es la función para la cual se establecen.
           li 
             i.fas.fa-angle-right
-            | Los <b>instrumentos que facilitan identificar y evaluar los niveles de cumplimiento o desviación</b> de los logros o actividades a realizar frente a los resultados esperados.
+            p.mb-0 Los <b>instrumentos que facilitan identificar y evaluar los niveles de cumplimiento o desviación</b> de los logros o actividades a realizar frente a los resultados esperados.
           li 
             i.fas.fa-angle-right
-            | KPI (Key Performance Indicator).
+            p.mb-0 KPI (Key Performance Indicator).
           li 
             i.fas.fa-angle-right
-            | Instrumento que representa la forma de medir si una función, proyecto, actividad, área funcional, unidad de negocio o la persona encargada están alcanzando las metas y objetivos o desde luego, resultados esperados.
+            p.mb-0 Instrumento que representa la forma de medir si una función, proyecto, actividad, área funcional, unidad de negocio o la persona encargada están alcanzando las metas y objetivos o desde luego, resultados esperados.
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-right")
       .col-md-12
         .crd.clr-paleYellow2.p-4.mb-4
           .row.align-items-center
@@ -47,11 +47,11 @@
             .col-md-11
               p.mb-0 Se deben utilizar indicadores de gestión en todos los niveles empresariales para evaluar el desempeño y lo establecido como metas, en la operación de la organización.    
 
-    p.mb-4 Analice los siguientes ejemplos de algunos indicadores de gestión aplicados a la gestión humana:
+    p.mb-4(data-aos="fade-right") Analice los siguientes ejemplos de algunos indicadores de gestión aplicados a la gestión humana:
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-md-8
-        ImagenInfografica.color-secundario.mb-5
+        ImagenInfografica.color-acento-botones.mb-5
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/tema5/img.svg', alt='Texto que describa la imagen')
@@ -95,24 +95,24 @@
     separador
 
 
-    #t_5_1.titulo-segundo.color-acento-contenido
+    #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 5.1. Diagrama de causa - efecto
 
-    p.mb-4 Es una herramienta para identificar de manera estructurada las causas de un problema o efecto evidenciado, a partir de un esquema gráfico que se asemeja a una espina de pescado, que es como también se denomina a esta herramienta.
+    p.mb-4(data-aos="fade-right") Es una herramienta para identificar de manera estructurada las causas de un problema o efecto evidenciado, a partir de un esquema gráfico que se asemeja a una espina de pescado, que es como también se denomina a esta herramienta.
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade")
       .col-md-12
         figure
           img(src='@/assets/curso/tema5/pez.png', alt='Texto que describa la imagen')
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right")
       .col-lg-12
         .cajon.color-acento-contenido(style='background-color: #E1E4A8').p-4
           p.mb-0 Esta técnica refiere identificar las causas principales de un problema o efecto negativo en la empresa y posteriormente, identificar las subcausas o variables de causa, relacionadas con las principales que estén contribuyendo con el problema; estas son de carácter secundario e inclusive, pueden ser de carácter terciario como en el caso de proveedores, por ejemplo.
 
-    p.mb-4 Analice este diagrama e identifique en el ejemplo los problemas evidenciados y sus probables causas:
+    p.mb-4(data-aos="fade-left") Analice este diagrama e identifique en el ejemplo los problemas evidenciados y sus probables causas:
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-md-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 4
@@ -120,7 +120,7 @@
         figure
           img(src='@/assets/curso/tema5/img2.svg', alt='Tipos de elasticidad de la oferta')
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-right")
       .col-md-12
         .crd.clr-paleYellow2.p-4.mb-4
           .row.align-items-center
@@ -132,14 +132,14 @@
     separador
    
 
-    #t_5_2.titulo-segundo.color-acento-contenido
+    #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 5.2. Diagrama de Pareto
 
-    p.mb-4 Esta herramienta es una forma particular que se basa en un diagrama de barras verticales utilizado para identificar los pocos vitales y los muchos triviales que puede tener una empresa. Los vitales son, en gran medida, los responsables de la mayor parte de los efectos negativos de los problemas en la empresa; mientras los triviales son varios o muchos inconvenientes o situaciones problemáticas con relativamente pocos o moderados efectos negativos para el desempeño de la organización.
-    p.mb-4 Por lo general, los vitales y triviales se asocian en una relación 70-30 o 80-20, esto quiere decir que:
+    p.mb-4(data-aos="fade-right") Esta herramienta es una forma particular que se basa en un diagrama de barras verticales utilizado para identificar los pocos vitales y los muchos triviales que puede tener una empresa. Los vitales son, en gran medida, los responsables de la mayor parte de los efectos negativos de los problemas en la empresa; mientras los triviales son varios o muchos inconvenientes o situaciones problemáticas con relativamente pocos o moderados efectos negativos para el desempeño de la organización.
+    p.mb-4(data-aos="fade-right") Por lo general, los vitales y triviales se asocian en una relación 70-30 o 80-20, esto quiere decir que:
 
     .row.align-items-center.mb-5
-      .col-md-6
+      .col-md-6(data-aos="fade-right")
         .row.justify-content-center   
           .col-lg-12
             LineaTiempoD.color-linea
@@ -170,13 +170,13 @@
                     img.p-2(src='@/assets/curso/tema5/icon4.png' alt='Seis vacas bebiendo agua')
                 .col-md-9
                   p Solucionando los problemas vitales o mayores, hay una alta probabilidad de resolver eficazmente muchos de los aspectos triviales o menores.
-      .col-md-6
+      .col-md-6(data-aos="fade-left")
         figure
           img.p-2(src='@/assets/curso/tema5/img3.jpg' alt='Seis vacas bebiendo agua')
 
-    p.mb-4 Se debe analizar la tabla 1 y la figura 5 e identificar los aspectos clave del diagrama de Pareto, como herramienta de seguimiento y control administrativo:
+    p.mb-4(data-aos="fade-right") Se debe analizar la tabla 1 y la figura 5 e identificar los aspectos clave del diagrama de Pareto, como herramienta de seguimiento y control administrativo:
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-md-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 1
@@ -232,7 +232,7 @@
                 td 100,00%
                 td
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-md-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 5
@@ -241,14 +241,14 @@
         figure
           img(src='@/assets/curso/tema5/fig1.svg', alt='Tipos de elasticidad de la oferta')
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade")
       h5.text-center Causas de la queja
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-6
+      .col-md-6(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema5/img4.jpg', alt='Hombre manejando computador')
-      .col-md-6
+      .col-md-6(data-aos="fade-left")
         p.mb-4 En el ejemplo anterior, se puede observar que:
         ul.lista-ul--color
           li 
@@ -268,13 +268,13 @@
             | Esta herramienta tiene muchas aplicabilidades para el análisis en la empresa, y por ende, facilitar la toma de decisiones es un ejercicio de aplicabilidad de la administración, promoverla al interior de sus diferentes áreas funcionales.
     separador
 
-    #t_5_3.titulo-segundo.color-acento-contenido
+    #t_5_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 5.3. Diagrama de frecuencias o estratificación
 
-    p.mb-4 Es una técnica de distribución de las frecuencias de una variable que busca estratificar el comportamiento de la misma; pero no denota un sentido de orden específico.
-    p.mb-4 Ejemplo: en una empresa agrícola el gerente desea saber cómo es el consumo y venta de verduras, para ello recurre al análisis estadístico del promedio de ventas de estos recursos, lo que le servirá como parámetro para tomar decisiones. Ver tabla.
+    p.mb-4(data-aos="fade-right") Es una técnica de distribución de las frecuencias de una variable que busca estratificar el comportamiento de la misma; pero no denota un sentido de orden específico.
+    p.mb-4(data-aos="fade-right") Ejemplo: en una empresa agrícola el gerente desea saber cómo es el consumo y venta de verduras, para ello recurre al análisis estadístico del promedio de ventas de estos recursos, lo que le servirá como parámetro para tomar decisiones. Ver tabla.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-md-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 2
@@ -306,9 +306,9 @@
                 td 10,7%
                 td 100,0%
 
-    p.mb-4 A partir de esta información suministrada por el gerente de las centrales de mercado y quien resumió los promedios del número de toneladas por producto que se venden diariamente en el mercado en una semana cualquiera, construyó el siguiente gráfico estadístico de estratificación de frecuencias de los productos:
+    p.mb-4(data-aos="fade-right") A partir de esta información suministrada por el gerente de las centrales de mercado y quien resumió los promedios del número de toneladas por producto que se venden diariamente en el mercado en una semana cualquiera, construyó el siguiente gráfico estadístico de estratificación de frecuencias de los productos:
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-md-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 6
@@ -318,13 +318,13 @@
           img(src='@/assets/curso/tema5/fig2.svg', alt='Tipos de elasticidad de la oferta')
     separador         
 
-    #t_5_4.titulo-segundo.color-acento-contenido
+    #t_5_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 5.4. Histograma
 
-    p.mb-4 Es la distribución del comportamiento de una variable continua que denota la distribución de las frecuencias a lo largo de la variable continua.
-    p.mb-4 Ejemplo: en el caso de las ventas en un semestre, el gerente desea saber cómo es su estacionalidad o comportamiento típico, para lo cual presenta la siguiente información, ver tabla 3 y figura 7.
+    p.mb-4(data-aos="fade-right") Es la distribución del comportamiento de una variable continua que denota la distribución de las frecuencias a lo largo de la variable continua.
+    p.mb-4(data-aos="fade-right") Ejemplo: en el caso de las ventas en un semestre, el gerente desea saber cómo es su estacionalidad o comportamiento típico, para lo cual presenta la siguiente información, ver tabla 3 y figura 7.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-md-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 3
@@ -362,7 +362,7 @@
                 td 21,7%
                 td 100,0%
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-md-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 7
@@ -372,10 +372,10 @@
           img(src='@/assets/curso/tema5/fig3.svg', alt='Tipos de elasticidad de la oferta')
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-6
+      .col-md-6(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema5/img5.jpg', alt='Hombre manejando computador')
-      .col-md-6
+      .col-md-6(data-aos="fade-left")
         p.mb-4 En este caso:
         ul.lista-ul--color
           li 
@@ -398,18 +398,18 @@
             | Por tanto, podrá implementar nuevos procesos tal como se ve en el ejemplo para el mes de febrero.
     separador
 
-    #t_5_5.titulo-segundo.color-acento-contenido
+    #t_5_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h4 5.5. Diagramas de pastel
 
-    p.mb-4 Es otro esquema de representación gráfica estadística que busca descomponer una variable en sus diferentes categorías, mostrando la cantidad de frecuencia o casos, evidenciando cuánto del total corresponde a cada categoría dentro de la variable.
-    p.mb-4 En la siguiente tabla de ejemplo analice la intensidad del recurso de talento humano por regional:
+    p.mb-4(data-aos="fade-right") Es otro esquema de representación gráfica estadística que busca descomponer una variable en sus diferentes categorías, mostrando la cantidad de frecuencia o casos, evidenciando cuánto del total corresponde a cada categoría dentro de la variable.
+    p.mb-4(data-aos="fade-right") En la siguiente tabla de ejemplo analice la intensidad del recurso de talento humano por regional:
 
-    .row.justify-content-center.align-items-center.mb-2
+    .row.justify-content-center.align-items-center.mb-2(data-aos="fade-right")
       .col-md-7
         .titulo-sexto.color-acento-contenido
           h5 Tabla 4
           span - Ejemplo del nivel de ventas por mes en el primer semestre
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-md-7
         .tabla-a.color-acento-botones.mb-5 
           table
