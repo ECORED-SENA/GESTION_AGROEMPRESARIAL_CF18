@@ -15,7 +15,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema1/img1.jpg')})`}"
           )
           .bloque-texto-g__texto.p-5
-            p En el contexto contemporáneo uno de los mecanismos que establecen las empresas para lograr sus fines, objetivos o metas, así como también definir y aprovechar óptimamente los recursos de que disponen para su operación, requiere planear las actividades, las cuales deben ser muy efectivas; allí, <b>os programas de capacitación y entrenamiento</b> adquieren mayor relevancia.
+            p En el contexto contemporáneo uno de los mecanismos que establecen las empresas para lograr sus fines, objetivos o metas, así como también definir y aprovechar óptimamente los recursos de que disponen para su operación, requiere planear las actividades, las cuales deben ser muy efectivas; allí, <b>los programas de capacitación y entrenamiento</b> adquieren mayor relevancia.
 
     .row.mb-4(data-aos="fade")
       .col-lg-12

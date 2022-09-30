@@ -405,25 +405,13 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Leonardo Pico',
+        nombre: 'Fabian Leonardo Correa Díaz',
         cargo: 'Soporte front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Mariac Ovalle',
-        cargo: 'Validación de Maquetación',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: '',
-        cargo: 'Actividades didácticas',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Mariac Ovalle',
+        nombre: 'Maria Camila Ovalle',
         cargo: 'Validación Contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

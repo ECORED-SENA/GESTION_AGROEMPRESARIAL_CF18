@@ -109,7 +109,7 @@
                   h5.mb-1 Acciones formativas, correctivas y disciplinarias en el plan de mejora
                   p.text-small.mb-0 Amplie su conocimiento sobre las acciones formativas y disciplinarias, explorando el documento que aquí se propone.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Acciones formativas, correctivas y disciplinarias en el plan de mejora.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Acciones_formativas.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download   
 

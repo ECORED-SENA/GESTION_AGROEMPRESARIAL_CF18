@@ -131,7 +131,7 @@
                   h5.mb-1 Componentes de una compensación salarial
                   p.text-small.mb-0 A continuación lo invitamos a consultar el siguiente recurso que le permitirá ampliar sus conocimientos en lo relacionado con las compensaciones laborales. 
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Componentes de una compensación salarial.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/compensación_salarial.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download   
 
