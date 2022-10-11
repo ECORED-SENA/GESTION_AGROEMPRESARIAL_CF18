@@ -12,7 +12,7 @@
       .col-md-12.col-12
         .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/tema7/img1.jpg')})`}"
+            :style="{'background-image': `url(${require('@/assets/curso/tema7/img3.jpg')})`}"
           )
           .bloque-texto-g__texto.p-5
             p Los problemas son fácilmente observables y tratables desde las medidas del diálogo sincero, la comunicación directa y el seguimiento operativo. La evaluación al desempeño laboral de los trabajadores en la empresa permite identificar las problemáticas y aplicar soluciones. Existen variadas posibilidades que pueden aplicarse desde un mismo plan de mejora, lo cual depende del análisis al desempeño.
@@ -24,7 +24,7 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-3(data-aos="fade-right")
-        figure
+        figure.mb-2
           img(src='@/assets/curso/tema7/img2.jpg', alt='alerta')
       .col-md-7(data-aos="fade-left")
         p.mb-4 A partir de los análisis de desempeño, el control a los procesos y el cumplimiento de las actividades, se plantean acciones del plan de mejora a los trabajadores donde:
@@ -66,11 +66,11 @@
     .titulo-principal1.color-acento-contenido(data-aos="fade-right")
       .titulo-principal1__numero
         span 
-      h4.mb-0 Principales problemas en la gestión del talento humano
+      h3.mb-0 Principales problemas en la gestión del talento humano
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-6(data-aos="fade-right")
-        figure
+        figure.mb-2
           img(src='@/assets/curso/tema7/img3.jpg', alt='alerta')
       .col-md-6(data-aos="fade-left")
         p.mb-4 Los análisis de control, seguimiento y de evaluación de desempeño de los trabajadores evidencian los siguientes tipos de problemas más frecuentes, sobre los cuales se adoptarán las acciones preventivas, correctivas y disciplinarias, en conformidad a su nivel de impacto en la empresa.
@@ -99,16 +99,16 @@
             
     .row(data-aos="fade-right")
       .col-md-12
-        .tarjeta.color-acento-contenido.p-4
+        .tarjetacolorojo.p-4
           .row.justify-content-around.align-items-center
             .col-auto
               img(src="@/assets/curso/tema2/icon1.png").img65
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h5.mb-1 Acciones formativas, correctivas y disciplinarias en el plan de mejora
-                  p.text-small.mb-0 Amplie su conocimiento sobre las acciones formativas y disciplinarias, explorando el documento que aquí se propone.
-                .col-sm-auto
+                  h5.mb-1.text-white Acciones formativas, correctivas y disciplinarias en el plan de mejora
+                  p.text-small.mb-0.text-white Amplie su conocimiento sobre las acciones formativas y disciplinarias, explorando el documento que aquí se propone.
+                .col-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Acciones_formativas.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download   

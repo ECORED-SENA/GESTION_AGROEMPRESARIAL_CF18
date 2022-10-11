@@ -1,1 +1,1 @@
-module.exports = 'Manejo de las especies pecuarias'
+module.exports = 'Desarrollo humano'
