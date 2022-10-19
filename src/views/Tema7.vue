@@ -12,7 +12,7 @@
       .col-md-12.col-12
         .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/tema7/img3.jpg')})`}"
+            :style="{'background-image': `url(${require('@/assets/curso/tema7/img1.jpg')})`}"
           )
           .bloque-texto-g__texto.p-5
             p Los problemas son fácilmente observables y tratables desde las medidas del diálogo sincero, la comunicación directa y el seguimiento operativo. La evaluación al desempeño laboral de los trabajadores en la empresa permite identificar las problemáticas y aplicar soluciones. Existen variadas posibilidades que pueden aplicarse desde un mismo plan de mejora, lo cual depende del análisis al desempeño.
@@ -92,7 +92,7 @@
       .col-md-12.col-12
         .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/tema7/img3.jpg')})`}"
+            :style="{'background-image': `url(${require('@/assets/curso/tema7/img4.jpg')})`}"
           )
           .bloque-texto-g__texto.p-5
             p Con este derrotero de problemas, el gestor de recursos humanos deberá diseñar y emprender acciones que permitan superar las dificultades y consolidar un ambiente de desarrollo laboral apropiado y de clima organizacional.
@@ -107,7 +107,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h5.mb-1.text-white Acciones formativas, correctivas y disciplinarias en el plan de mejora
-                  p.text-small.mb-0.text-white Amplie su conocimiento sobre las acciones formativas y disciplinarias, explorando el documento que aquí se propone.
+                  p.mb-0.text-white Amplie su conocimiento sobre las acciones formativas y disciplinarias, explorando el documento que aquí se propone.
                 .col-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Acciones_formativas.pdf')" target="_blank")
                     span Descargar

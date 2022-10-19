@@ -99,12 +99,29 @@
   bottom: 0
   background-position: center
   background-size: cover
+  @media screen and (max-width: 994px)
+    width: 100%
+    position: absolute
+    top: 0%
+    right: 0%
+    bottom: 60%
+    background-position: center
+    background-size: cover
 
 .bloque-texto-g1__texto 
   position: relative
   width: 60%
   background-color: rgba(255, 255, 255, 0.95)
   right: -40%
+  @media screen and (max-width: 994px)
+    position: relative
+    width: 100%
+    background-color: rgba(255, 255, 255, 0.95)
+    right: 0%
+  
+.bloque-texto-g1
+  @media (max-width: 576px)
+    padding-top: 200px !important
 
 .clr-paleYellow2
   background-color: #E1E4A8

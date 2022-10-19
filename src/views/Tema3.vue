@@ -30,28 +30,28 @@
           SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
             .tarjeta.color-rosa2.p-4
               .row.justify-content-center.mb-3
-                .col-9
+                .col-12
                   img(src='@/assets/curso/tema3/1.png' alt='Personas en oficina')
               h4.text-center Cumplimiento de objetivos
               p.text-center Analizar si los objetivos de los trabajadores, en cuanto al cumplimiento de sus funciones, se están cumpliendo.
 
             .tarjeta.color-rosa2.p-4
               .row.justify-content-center.mb-3
-                .col-9
+                .col-12
                   img(src='@/assets/curso/tema3/2.png' alt='Personas en oficina')
               h4.text-center Criterios justos y legítimos
               p.text-center No debe tomarse como elemento aislado para dar continuidad laboral al trabajador.
 
             .tarjeta.color-rosa2.p-4
               .row.justify-content-center.mb-3
-                .col-9
+                .col-12
                   img(src='@/assets/curso/tema3/3.png' alt='Personas en oficina')
               h4.text-center Mejorar procesos
               p.text-center La toma de decisiones en relación con la continuidad o asignación de roles a trabajadores se enfocará en mejorar los procesos.
 
             .tarjeta.color-rosa2.p-4
               .row.justify-content-center.mb-3
-                .col-9
+                .col-12
                   img(src='@/assets/curso/tema3/4.png' alt='Personas en oficina')
               h4.text-center Pertinencia de las cargas horarias y de rol
               p.text-center Las cargas de trabajo designadas para cada trabajador serán justas y pertinentes para permitirle operar, dando aportes y logrando objetivos.
@@ -104,7 +104,7 @@
           .cstmH4
             .row.align-items-center
               .col-auto
-                h4.text-white.mb-0 Instrumentos de evaluación
+                h3.text-white.mb-0 Instrumentos de evaluación
               .col-auto
                 figure
                   img(src="@/assets/curso/tema2/icon1.svg", alt="alt").img80
@@ -122,8 +122,6 @@
         .col-lg-12
           .cajon.color-acento-contenido(style='background-color: #E1E4A8').p-4
             p.mb-0 Los aspectos a evaluar se pueden organizar por categorías, haciendo preguntas y a partir de ellas se establecen niveles de valuación o escalas de valoración. 
-
-
 
     p.mb-4(data-aos="fade-left") A continuación, se presenta un ejemplo de aspectos a evaluar por tipo de categorías a los empleados:
 
@@ -1042,7 +1040,7 @@
           .cstmH4
             .row.align-items-center
               .col-auto
-                h4.text-white.mb-0 Técnicas o métodos de evaluación de desempeño laboral
+                h3.text-white.mb-0 Técnicas o métodos de evaluación de desempeño laboral
               .col-auto
                 figure
                   img(src="@/assets/curso/tema2/icon2.svg", alt="alt").img80

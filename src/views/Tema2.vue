@@ -40,28 +40,28 @@
           SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
             .tarjeta.color-rosa2.p-4
               .row.justify-content-center.mb-3
-                .col-9
+                .col-12
                   img(src='@/assets/curso/tema2/1.png' alt='Personas en oficina')
               h4.text-center Responsable
               p.text-center La administración y estructura funcional de las compensaciones laborales está a cargo del departamento o área de recursos humanos.
 
             .tarjeta.color-rosa2.p-4
               .row.justify-content-center.mb-3
-                .col-9
+                .col-12
                   img(src='@/assets/curso/tema2/2.png' alt='Personas en oficina')
               h4.text-center Criterios
               p.text-center Desde recursos humanos se sustentan los beneficios y los salarios que se reconocerán al trabajador y se pactan en conformidad a su perfil.
 
             .tarjeta.color-rosa2.p-4
               .row.justify-content-center.mb-3
-                .col-9
+                .col-12
                   img(src='@/assets/curso/tema2/3.png' alt='Personas en oficina')
               h4.text-center Consideración del perfil
               p.text-center El perfil del trabajador para efectos de compensaciones estima: el nivel de responsabilidades, nivel de formación, tiempo de trabajo, funciones específicas y generales, entre otras.
 
             .tarjeta.color-rosa2.p-4
               .row.justify-content-center.mb-3
-                .col-9
+                .col-12
                   img(src='@/assets/curso/tema2/4.png' alt='Personas en oficina')
               h4.text-center Nivel jerárquico en las organizaciones
               p.text-center Regularmente, los cargos de obreros y operarios cuentan con niveles de compensación salarial menores en comparación a los cargos de coordinación y cargos directivos.
@@ -110,7 +110,7 @@
         .cstmH4
           .row.align-items-center
             .col-auto
-              h4.text-white.mb-0 Tipos de compensaciones
+              h3.text-white.mb-0 Tipos de compensaciones
             .col-auto
               figure
                 img(src="@/assets/curso/tema1/icon1.svg", alt="alt").img80
@@ -135,7 +135,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h5.mb-1.text-white Componentes de una compensación salarial
-                  p.text-small.mb-0.text-white A continuación lo invitamos a consultar el siguiente recurso que le permitirá ampliar sus conocimientos en lo relacionado con las compensaciones laborales. 
+                  p.mb-0.text-white A continuación lo invitamos a consultar el siguiente recurso que le permitirá ampliar sus conocimientos en lo relacionado con las compensaciones laborales. 
                 .col-lg-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/compensación_salarial.pdf')" target="_blank")
                     span Descargar
