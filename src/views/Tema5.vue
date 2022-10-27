@@ -125,7 +125,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-md-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 4
+          h5 Figura 3
           span - Esquema de diagrama causa-efecto
         figure
           img(src='@/assets/curso/tema5/img2.svg', alt='Tipos de elasticidad de la oferta')
@@ -246,7 +246,7 @@
       .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
         .col-md-10
           .titulo-sexto.color-acento-contenido
-            h5 Figura 5
+            h5 Figura 4
             span - Ejemplo de un Diagrama de Pareto del comportamiento de quejas y reclamos
         .col-md-12
           figure
@@ -322,7 +322,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-md-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 6
+          h5 Figura 5
           span - Diagrama de estratificación del estado de cartera por ventas a clientes
       .col-md-10
         figure
@@ -376,7 +376,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-md-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 7
+          h5 Figura 6
           span - Ejemplo de histograma del comportamiento de ventas semestrales en una empresa
       .col-md-10
         figure
@@ -419,7 +419,7 @@
       .col-md-7
         .titulo-sexto.color-acento-contenido
           h5 Tabla 4
-          span - Ejemplo del nivel de ventas por mes en el primer semestre
+          span - Ejemplo número de empleados por tipo de mercado
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-md-7
         .tabla-a.color-acento-botones.mb-5 

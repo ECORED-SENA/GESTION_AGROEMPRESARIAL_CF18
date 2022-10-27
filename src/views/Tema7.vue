@@ -44,7 +44,7 @@
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-azul")
         .row.align-items-center(titulo="Preventivas")
           .col-md-6.mb-4.mb-md-0
-            p Aquellas iniciativas que adelanta la empresa para para mitigar o evitar posibles efectos de improductividad, generación de conflictos, malos desempeños o cualquier otra situación que pueda afectar la operación en la empresa, así mismo, que permitan corregir desviaciones en el logro de objetivos y atrasos operativos.
+            p Aquellas iniciativas que adelanta la empresa para mitigar o evitar posibles efectos de improductividad, generación de conflictos, malos desempeños o cualquier otra situación que pueda afectar la operación en la empresa, así mismo, que permitan corregir desviaciones en el logro de objetivos y atrasos operativos.
           .col-md-6
             figure
               img(src='@/assets/curso/tema7/1.png', alt='Granja')
@@ -80,7 +80,7 @@
             p <b>Problemas de actitud</b> relacionados con la autoestima, por malos esquemas de comunicación, de bajas capacidades de trabajo en equipo, de coordinación de procesos, etc.
           li 
             i.fas.fa-angle-right
-            p <b>Perfiles formativos y de actualización</b> de conocimientos relacionados con el desempeño del trabajo mal no actualizados o ausentes.
+            p <b>Perfiles formativos y de actualización</b> de conocimientos relacionados con el desempeño del trabajo mal actualizados o ausentes.
           li 
             i.fas.fa-angle-right
             p <b>Asignaciones equivocadas</b> de trabajadores a puestos de trabajo actuales, bien por experiencia, formación, por características del trabajador no ajustadas para el puesto, problemas de salud, etc. 
@@ -109,7 +109,7 @@
                   h5.mb-1.text-white Acciones formativas, correctivas y disciplinarias en el plan de mejora
                   p.mb-0.text-white Amplie su conocimiento sobre las acciones formativas y disciplinarias, explorando el documento que aquí se propone.
                 .col-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Acciones_formativas.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/accionesformativas.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download   
 

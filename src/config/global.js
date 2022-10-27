@@ -471,11 +471,6 @@ export default {
         cargo: 'Responsable del equipo de Gestión de Repositorio',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
-      {
-        nombre: '',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
     ],
   },
   // creditosInicio: [

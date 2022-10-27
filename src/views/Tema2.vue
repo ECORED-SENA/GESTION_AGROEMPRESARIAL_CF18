@@ -106,11 +106,11 @@
             | Minimizar costos por procesos de reclutamiento y selección.
 
     .row.mb-4(data-aos="fade-right")
-      .col-auto
+      .col-lg-5.col-md-7.col-10
         .cstmH4
           .row.align-items-center
             .col-auto
-              h3.text-white.mb-0 Tipos de compensaciones
+              h3.text-white.mb-1 Tipos de compensaciones
             .col-auto
               figure
                 img(src="@/assets/curso/tema1/icon1.svg", alt="alt").img80
@@ -137,7 +137,7 @@
                   h5.mb-1.text-white Componentes de una compensación salarial
                   p.mb-0.text-white A continuación lo invitamos a consultar el siguiente recurso que le permitirá ampliar sus conocimientos en lo relacionado con las compensaciones laborales. 
                 .col-lg-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/compensación_salarial.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/compensaciónsalarial.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download   
 

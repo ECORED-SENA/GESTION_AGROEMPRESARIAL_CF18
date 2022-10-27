@@ -100,7 +100,7 @@
             img(src='@/assets/curso/tema3/img2.jpg', alt='alerta')
 
       .row.mb-4(data-aos="fade-right")
-        .col-auto 
+        .col-lg-5.col-md-7.col-9
           .cstmH4
             .row.align-items-center
               .col-auto
@@ -126,7 +126,7 @@
     p.mb-4(data-aos="fade-left") A continuación, se presenta un ejemplo de aspectos a evaluar por tipo de categorías a los empleados:
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-      h5 Figura 2   
+      h5 Tablas  
       span - Ejemplo de tabla de formulario para evaluación de desempeño
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
@@ -1036,7 +1036,7 @@
               p.mb-0 Cuando los medios y los tipos de trabajo de los empleados lo permitan, se puede realizar mediante métodos electrónicos de formularios, lo que facilita el proceso y la compilación de la información.
     
       .row.mb-4(data-aos="fade-right")
-        .col-auto
+        .col-lg-9.col-md-12
           .cstmH4
             .row.align-items-center
               .col-auto
@@ -1143,7 +1143,7 @@
               h3.mb-1.text-white Formato Evaluación de Desempeño
               p.text-white Analice el modelo de instrumento para adelantar evaluación, donde se evidencian niveles de valoración del desempeño, trabajo, conocimiento de la empresa, calidad, planeación, organización del trabajo y compromisos para mejorar
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('downloads/FormatoEvaluacióndeDesempenio.xlsx')" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('downloads/FormatoEvaluaciondeDesempenio.xlsx')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
     

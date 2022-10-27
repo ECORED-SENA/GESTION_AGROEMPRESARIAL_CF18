@@ -27,7 +27,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-md-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 3
+          h5 Figura 2
           span - Control y seguimiento al desempeño
         figure
           img(src='@/assets/curso/tema4/fig1.svg', alt='Tipos de elasticidad de la oferta')
