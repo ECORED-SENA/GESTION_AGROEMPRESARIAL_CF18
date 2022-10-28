@@ -100,7 +100,7 @@
             img(src='@/assets/curso/tema3/img2.jpg', alt='alerta')
 
       .row.mb-4(data-aos="fade-right")
-        .col-lg-5.col-md-7.col-9
+        .col-xl-5.col-lg-5.col-md-7.col-9
           .cstmH4
             .row.align-items-center
               .col-auto
@@ -123,10 +123,10 @@
           .cajon.color-acento-contenido(style='background-color: #E1E4A8').p-4
             p.mb-0 Los aspectos a evaluar se pueden organizar por categorías, haciendo preguntas y a partir de ellas se establecen niveles de valuación o escalas de valoración. 
 
-    p.mb-4(data-aos="fade-left") A continuación, se presenta un ejemplo de aspectos a evaluar por tipo de categorías a los empleados:
+      p.mb-4(data-aos="fade-left") A continuación, se presenta un ejemplo de aspectos a evaluar por tipo de categorías a los empleados:
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-      h5 Tablas  
+      h5 Tabla 1
       span - Ejemplo de tabla de formulario para evaluación de desempeño
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade")

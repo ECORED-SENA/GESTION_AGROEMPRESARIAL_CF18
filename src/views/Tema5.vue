@@ -190,7 +190,7 @@
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
         .col-md-12
           .titulo-sexto.color-acento-contenido
-            h5 Tabla 1
+            h5 Tabla 2
             span - Ejemplo de quejas y reclamos de clientes por artículos recibidos en un mes
         .col-md-12
           .tabla-a.color-acento-botones.mb-5 
@@ -288,7 +288,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-md-12
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 2
+          h5 Tabla 3
           span - Ejemplo de concentración del estado de cartera por ventas (millones)
       .col-md-12
         .tabla-a.color-acento-botones.mb-5 
@@ -338,7 +338,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-md-12
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 3
+          h5 Tabla 4
           span - Ejemplo del nivel de ventas por mes en el primer semestre
       .col-md-12
         .tabla-a.color-acento-botones.mb-5 
@@ -418,7 +418,7 @@
     .row.justify-content-center.align-items-center.mb-2(data-aos="fade-right")
       .col-md-7
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 4
+          h5 Tabla 5
           span - Ejemplo número de empleados por tipo de mercado
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-md-7
