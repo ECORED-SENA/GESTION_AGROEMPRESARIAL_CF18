@@ -124,7 +124,6 @@
       .video
         iframe(width="942" height="530" src="https://www.youtube.com/embed/aTTAnPkXcg4" title="Plan de capacitación en la empresa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-
 </template>
 
 <script>
